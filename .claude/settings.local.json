@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "WebFetch(domain:student.tnua.edu.tw)",
+      "Bash(npm run build:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(where:*)",
+      "Bash(powershell -Command \"Add-Type -AssemblyName System.IO.Compression.FileSystem; [System.IO.Compression.ZipFile]::ExtractToDirectory\\(''D:\\\\DevRoot\\\\WebProject\\\\Sites\\\\Public\\\\mentor-web\\\\Reference\\\\articles-reset-README.odt'', ''D:\\\\DevRoot\\\\WebProject\\\\Sites\\\\Public\\\\mentor-web\\\\Reference\\\\odt_temp''\\)\")",
+      "Bash(del /Q \"D:\\\\DevRoot\\\\WebProject\\\\Sites\\\\Public\\\\mentor-web\\\\public\\\\articles\\\\seasons\\\\*.md\")",
+      "Bash(powershell -Command \"Remove-Item ''D:\\\\DevRoot\\\\WebProject\\\\Sites\\\\Public\\\\mentor-web\\\\public\\\\articles\\\\seasons\\\\*.md'' -Force -ErrorAction SilentlyContinue; Write-Host ''Deletion completed''\")",
+      "Bash(powershell -Command \"[System.Net.ServicePointManager]::ServerCertificateValidationCallback = {$true}; [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; try { $response = Invoke-WebRequest -Uri ''https://student.tnua.edu.tw/mentor/generic.html'' -UseBasicParsing; $response.Content } catch { $_Exception.Message }\")",
+      "Bash(curl:*)",
+      "Bash(powershell -Command \"$word = New-Object -ComObject Word.Application; $word.Visible = $false; $doc = $word.Documents.Open\\(''D:\\\\DevRoot\\\\WebProject\\\\Sites\\\\Public\\\\mentor-web\\\\Reference\\\\Article-content\\\\2025-冬季篇-如何協助學生調適壓力_初稿.docx''\\); $content = $doc.Content.Text; $doc.Close\\(\\); $word.Quit\\(\\); [System.Runtime.Interopservices.Marshal]::ReleaseComObject\\($word\\) | Out-Null; Write-Output $content\")",
+      "Bash(powershell -Command:*)",
+      "Bash(powershell:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
