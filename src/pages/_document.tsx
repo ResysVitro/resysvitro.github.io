@@ -14,9 +14,9 @@ export default function Document() {
         {/* Preconnect to Google Fonts for faster font loading */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        {/* Load font with display=swap for faster text rendering */}
+        {/* Load fonts with display=swap for faster text rendering */}
         <link
-          href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Noto+Sans+TC:wght@400;500;600&display=swap"
           rel="stylesheet"
         />
       </Head>

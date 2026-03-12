@@ -36,8 +36,9 @@ const config: Config = {
         },
       },
       fontFamily: {
-        sans: ['"Noto Sans TC"', 'system-ui', 'sans-serif'],
-        serif: ['"Noto Sans TC"', 'system-ui', 'sans-serif'],
+        sans: ['"Press Start 2P"', '"Noto Sans TC"', 'system-ui', 'sans-serif'],
+        serif: ['"Press Start 2P"', '"Noto Sans TC"', 'system-ui', 'sans-serif'],
+        pixel: ['"Press Start 2P"', 'monospace'],
       },
     },
   },
