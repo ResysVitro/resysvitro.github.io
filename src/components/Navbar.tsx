@@ -129,7 +129,7 @@ export default function Navbar() {
                 priority
               />
             </div>
-            <span className="font-serif font-semibold text-ink-900 group-hover:text-accent-terracotta transition-colors">
+            <span className="font-serif font-semibold text-ink-900 group-hover:text-accent-terracotta transition-colors whitespace-nowrap">
               導師系統
             </span>
           </Link>

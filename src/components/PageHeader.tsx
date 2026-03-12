@@ -1,5 +1,7 @@
+import { ReactNode } from 'react'
+
 interface PageHeaderProps {
-  title: string
+  title: string | ReactNode
   titleEn?: string
   description?: string
 }

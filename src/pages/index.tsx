@@ -36,7 +36,7 @@ export default function Home({ latestSeasons, latestNews }: HomeProps) {
                 導師輔導手冊
               </Link>
               <Link href="/resources/" className="btn-outline flex-1 sm:flex-initial">
-                輔導資源懶人包
+                <span className="inline-block">輔導資源</span><wbr /><span className="inline-block">懶人包</span>
               </Link>
               <Link href="/workshop/" className="btn-outline flex-1 sm:flex-initial">
                 知能研習
@@ -150,7 +150,7 @@ export default function Home({ latestSeasons, latestNews }: HomeProps) {
           <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between mb-12">
             <div>
               <div className="divider mb-6" />
-              <h2 className="section-title">輔導資源懶人包</h2>
+              <h2 className="section-title"><span className="inline-block">輔導資源</span><wbr /><span className="inline-block">懶人包</span></h2>
               <p className="section-subtitle">Quick Reference Guides</p>
             </div>
             <Link href="/resources/" className="link-hover text-sm font-medium inline-flex items-center gap-2 group mt-6 lg:mt-0">

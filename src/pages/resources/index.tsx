@@ -12,7 +12,7 @@ export default function ResourcesPage() {
         <title>{`輔導資源懶人包 | ${siteConfig.name}`}</title>
       </Head>
       <PageHeader
-        title="輔導資源懶人包"
+        title={<><span className="inline-block">輔導資源</span><wbr /><span className="inline-block">懶人包</span></>}
         titleEn="Quick Reference Guides"
         description="13項導師輔導資源快速查詢"
       />
