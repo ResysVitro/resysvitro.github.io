@@ -5,8 +5,8 @@ year: 2021
 date: 2021-05-01
 author: 李韋姍　本校兼任諮商心理師
 tags: [春季, 身心疾病, 焦慮, 憂鬱, 校園心理健康]
-thumbnail: /images/seasons/2021/2021春季篇.jpg
-poster: /images/seasons/2021/2021春季篇.jpg
+thumbnail: /images/seasons/2021/2021春季篇.webp
+poster: /images/seasons/2021/2021春季篇.webp
 ---
 
 # 關渡心四季－2021春季篇：認識校園常見的身心疾病

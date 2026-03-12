@@ -5,8 +5,8 @@ year: 2022
 date: 2022-09-30
 author: 吳政勳　諮商心理師
 tags: [青春期, 青年發展, 三沒世代, 生涯發展]
-thumbnail: /images/seasons/2022/2022冬季篇.jpg
-poster: /images/seasons/2022/2022冬季篇.jpg
+thumbnail: /images/seasons/2022/2022冬季篇.webp
+poster: /images/seasons/2022/2022冬季篇.webp
 ---
 
 # 關渡心四季－2022冬季篇：依依不捨的青春期

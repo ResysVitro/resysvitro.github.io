@@ -5,8 +5,8 @@ year: 2025
 date: 2025-02-01
 author: 國立臺北藝術大學學生諮商中心
 tags: [Z世代, 溝通技巧, 世代差異, 學生輔導]
-thumbnail: /images/seasons/test.webp
-poster: /images/seasons/test.webp
+thumbnail: /images/seasons/2025/2025春季篇.PNG
+poster: /images/seasons/2025/2025春季篇.PNG
 ---
 
 # 關渡心四季－2025春季篇：與Z世代的年輕人之溝通與輔導的技巧

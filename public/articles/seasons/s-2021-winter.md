@@ -5,8 +5,8 @@ year: 2021
 date: 2021-12-17
 author: 潘奐璇　諮商心理師
 tags: [冬季, 壓力管理, 專注力, 時間規劃, 心理健康]
-thumbnail: /images/seasons/2021/2021冬季篇.jpg
-poster: /images/seasons/2021/2021冬季篇.jpg
+thumbnail: /images/seasons/2021/2021冬季篇.webp
+poster: /images/seasons/2021/2021冬季篇.webp
 ---
 
 # 關渡心四季－2021冬季篇：心靈每日C，去去壓力走

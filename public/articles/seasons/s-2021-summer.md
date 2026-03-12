@@ -5,8 +5,8 @@ year: 2021
 date: 2021-07-01
 author: 潘奐璇　諮商心理師
 tags: [夏季, 疫情, 生涯輔導, 畢業生, 心理健康]
-thumbnail: /images/seasons/2021/2021夏季篇.JPG
-poster: /images/seasons/2021/2021夏季篇.JPG
+thumbnail: /images/seasons/2021/2021夏季篇.webp
+poster: /images/seasons/2021/2021夏季篇.webp
 ---
 
 # 關渡心四季－2021夏季篇：疫情急轉彎，遇見「心」生活

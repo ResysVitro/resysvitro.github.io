@@ -20,7 +20,13 @@
       "Bash(findstr:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(move s-2025-winter.md s-2025-autumn.md)",
+      "Bash(ren:*)",
+      "Bash(find:*)",
+      "Bash(sort:*)",
+      "Bash(node scripts/compress-images.js:*)",
+      "Bash(node scripts/update-image-refs.js:*)"
     ]
   }
 }

@@ -5,8 +5,8 @@ year: 2023
 date: 2023-12-01
 author: 本校學生諮商中心
 tags: [情緒管理, 導師輔導, 校園安全, 危機處理]
-thumbnail: /images/seasons/2023/2023冬季篇.jpg
-poster: /images/seasons/2023/2023冬季篇.jpg
+thumbnail: /images/seasons/2023/2023冬季篇.webp
+poster: /images/seasons/2023/2023冬季篇.webp
 ---
 
 # 關渡心四季－2023冬季篇：學生情緒管控不易掌握，第一線導師的輔導時應留意什麼？

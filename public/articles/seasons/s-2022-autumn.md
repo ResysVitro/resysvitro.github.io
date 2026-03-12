@@ -5,8 +5,8 @@ year: 2022
 date: 2022-06-06
 author: 吳郁儒　諮商心理師
 tags: [壓力管理, 心理健康, 壓力調適, 情緒調節]
-thumbnail: /images/seasons/2022/2022秋季篇.jpg
-poster: /images/seasons/2022/2022秋季篇.jpg
+thumbnail: /images/seasons/2022/2022秋季篇.webp
+poster: /images/seasons/2022/2022秋季篇.webp
 ---
 
 # 關渡心四季－2022秋季篇：戰勝「壓力獸」，從容過生活

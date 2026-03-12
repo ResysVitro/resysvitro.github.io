@@ -6,8 +6,8 @@ season: spring
 date: 2026-03-15
 author: 林冠瑋 諮商心理師
 tags: [隱形困境, 學生輔導, 心理健康, 求助行為]
-thumbnail: /images/seasons/test.webp
-poster: /images/seasons/test.webp
+thumbnail: /images/seasons/2026/2026春季篇.png
+poster: /images/seasons/2026/2026春季篇.png
 ---
 
 # 關渡心四季－2026春季篇：當學生不敢開口：大學導師如何辨識隱形困境學生的求救

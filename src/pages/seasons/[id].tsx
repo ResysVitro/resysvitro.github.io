@@ -13,7 +13,7 @@ export default function SeasonArticlePage({ article }: SeasonArticlePageProps) {
   return (
     <>
       <Head>
-        <title>{article.title} | {siteConfig.name}</title>
+        <title>{`${article.title} | ${siteConfig.name}`}</title>
         <meta name="description" content={article.title} />
       </Head>
 

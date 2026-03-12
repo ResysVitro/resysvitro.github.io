@@ -9,7 +9,7 @@ export default function ResourcesPage() {
   return (
     <>
       <Head>
-        <title>輔導資源懶人包 | {siteConfig.name}</title>
+        <title>{`輔導資源懶人包 | ${siteConfig.name}`}</title>
       </Head>
       <PageHeader
         title="輔導資源懶人包"

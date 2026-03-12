@@ -5,8 +5,8 @@ year: 2022
 date: 2022-05-20
 author: 周芳英　諮商心理師
 tags: [教師支持, 自我照顧, 壓力管理, 教育工作]
-thumbnail: /images/seasons/2022/2022夏季篇-2.jpg
-poster: /images/seasons/2022/2022夏季篇-2.jpg
+thumbnail: /images/seasons/2022/2022夏季篇-2.webp
+poster: /images/seasons/2022/2022夏季篇-2.webp
 ---
 
 # 關渡心四季－2022夏季篇：接住心累的老師

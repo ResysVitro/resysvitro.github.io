@@ -13,7 +13,7 @@ export default function SeasonsPage({ articles }: SeasonsPageProps) {
   return (
     <>
       <Head>
-        <title>關渡心四季 | {siteConfig.name}</title>
+        <title>{`關渡心四季 | ${siteConfig.name}`}</title>
       </Head>
       <PageHeader
         title="關渡心四季"

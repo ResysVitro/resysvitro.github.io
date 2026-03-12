@@ -70,7 +70,7 @@ export default function WorkshopPage() {
   return (
     <>
       <Head>
-        <title>導師輔導知能研習 | {siteConfig.name}</title>
+        <title>{`導師輔導知能研習 | ${siteConfig.name}`}</title>
       </Head>
       <PageHeader
         title="導師輔導知能研習"

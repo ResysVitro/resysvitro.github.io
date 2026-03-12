@@ -5,8 +5,8 @@ year: 2022
 date: 2022-05-20
 author: 潘奐璇　諮商心理師
 tags: [疫情, 心理健康, 軟實力, 自我覺察, 情緒管理]
-thumbnail: /images/seasons/2022/2022夏季篇-1.JPG
-poster: /images/seasons/2022/2022夏季篇-1.JPG
+thumbnail: /images/seasons/2022/2022夏季篇-1.webp
+poster: /images/seasons/2022/2022夏季篇-1.webp
 ---
 
 # 關渡心四季－2022夏季篇：後疫情時代，心靈防疫「E」點靈

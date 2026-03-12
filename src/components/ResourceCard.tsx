@@ -67,13 +67,6 @@ export default function ResourceCard({ item }: ResourceCardProps) {
             className="bg-cream-50 rounded-2xl p-8 max-w-md w-full shadow-lg border border-cream-200"
             onClick={(e) => e.stopPropagation()}
           >
-            <div className="flex items-center justify-center mb-6">
-              <div className="w-16 h-16 bg-accent-terracotta/10 rounded-full flex items-center justify-center">
-                <svg className="w-8 h-8 text-accent-terracotta" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
-              </div>
-            </div>
             <h3 className="text-xl font-semibold text-ink-900 text-center mb-3">
               此區塊資料更新中
             </h3>

@@ -13,7 +13,7 @@ export default function WorkshopDetailPage({ workshop }: WorkshopPageProps) {
   return (
     <>
       <Head>
-        <title>{workshop.title} | {siteConfig.name}</title>
+        <title>{`${workshop.title} | ${siteConfig.name}`}</title>
         <meta name="description" content={workshop.title} />
       </Head>
 

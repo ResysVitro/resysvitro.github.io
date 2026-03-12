@@ -5,8 +5,8 @@ year: 2023
 date: 2023-05-20
 author: 蔡宜軒　諮商心理師
 tags: [自信, 冒牌者症候群, 自我認同, 心理健康, 完美主義]
-thumbnail: /images/seasons/2023/2023春季篇.jpg
-poster: /images/seasons/2023/2023春季篇.jpg
+thumbnail: /images/seasons/2023/2023春季篇.webp
+poster: /images/seasons/2023/2023春季篇.webp
 ---
 
 # 關渡心四季－2023春季篇：擁抱愧疚與自卑感，活出穩穩自信感

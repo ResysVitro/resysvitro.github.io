@@ -5,8 +5,8 @@ year: 2023
 date: 2023-06-20
 author: 蔡宜軒　諮商心理師
 tags: [依附理論, 親密關係, 焦慮依附, 逃避依附, 關係經營]
-thumbnail: /images/seasons/2023/2023夏季篇.jpg
-poster: /images/seasons/2023/2023夏季篇.jpg
+thumbnail: /images/seasons/2023/2023夏季篇.webp
+poster: /images/seasons/2023/2023夏季篇.webp
 ---
 
 # 關渡心四季－2023夏季篇：我明白，我要的愛?

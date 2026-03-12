@@ -19,7 +19,7 @@ export default function Home({ latestSeasons, latestNews }: HomeProps) {
   return (
     <>
       <Head>
-        <title>首頁 | {siteConfig.name}</title>
+        <title>{`首頁 | ${siteConfig.name}`}</title>
         <meta name="description" content={siteConfig.description} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>

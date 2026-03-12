@@ -5,8 +5,8 @@ year: 2024
 date: 2024-10-01
 author: 國立臺北藝術大學學生諮商中心
 tags: [學生輔導, 導生關係, 溝通技巧, 信任建立]
-thumbnail: /images/seasons/2024/2024秋季篇.png
-poster: /images/seasons/2024/2024秋季篇.png
+thumbnail: /images/seasons/2024/2024秋季篇.webp
+poster: /images/seasons/2024/2024秋季篇.webp
 ---
 
 # 關渡心四季－2024秋季篇：學生對不同身分者展現不同的面向時，導師該如何因應？

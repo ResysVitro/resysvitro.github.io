@@ -5,8 +5,8 @@ year: 2025
 date: 2025-05-01
 author: 國立臺北藝術大學國際事務處、學生諮商中心、生活輔導組
 tags: [境外生, 適應輔導, 文化適應, 同理關懷]
-thumbnail: /images/seasons/2025/2025夏季篇.jpg
-poster: /images/seasons/2025/2025夏季篇.jpg
+thumbnail: /images/seasons/2025/2025夏季篇.webp
+poster: /images/seasons/2025/2025夏季篇.webp
 ---
 
 # 關渡心四季－2025夏季篇：如何應對及安撫境外生對於新環境之不安

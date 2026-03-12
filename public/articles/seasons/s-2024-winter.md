@@ -5,8 +5,8 @@ year: 2024
 date: 2024-12-01
 author: 國立臺北藝術大學學生諮商中心
 tags: [學生輔導, 輔導紀錄, 資源轉介, 系統合作]
-thumbnail: /images/seasons/2024/2024冬季篇.png
-poster: /images/seasons/2024/2024冬季篇.png
+thumbnail: /images/seasons/2024/2024冬季篇.webp
+poster: /images/seasons/2024/2024冬季篇.webp
 ---
 
 # 關渡心四季－2024冬季篇：學生個別差異大，導師面臨分身乏術之困境，期許學生活得像個人

@@ -169,7 +169,7 @@ export interface HandbookItem {
 }
 
 export const handbooks: HandbookItem[] = [
-  { id: 'hb-1151', title: '115-1學期導師輔導手冊', semester: '115-1', pdfUrl: '#' },
+  { id: 'hb-1151', title: '115-1學期導師輔導手冊', semester: '115-1', pdfUrl: '/pdf/新導師輔導系統_導師操作手冊_20250925.pdf' },
   { id: 'hb-1142', title: '114-2學期導師輔導手冊', semester: '114-2', pdfUrl: '#' },
 ]
 
@@ -228,7 +228,7 @@ export const systemLinks: SystemLink[] = [
   { id: 'sys-1', title: '學生請假系統', href: '#', isExternal: true },
   { id: 'sys-2', title: '校內校安通報系統', href: '#', isExternal: true },
   { id: 'sys-3', title: '學習預警資訊系統-導師輔導操作說明', description: '操作說明文件', href: '#', isExternal: false },
-  { id: 'sys-4', title: '導師輔導系統操作說明', description: '操作說明文件', href: '#', isExternal: false },
+  { id: 'sys-4', title: '導師輔導系統操作說明', description: '操作說明文件', href: '/pdf/新導師輔導系統_導師操作手冊_20250925.pdf', isExternal: false },
   { id: 'sys-5', title: '學生獎懲線上提報操作說明', description: '操作說明文件', href: '#', isExternal: false },
 ]
 
@@ -239,9 +239,9 @@ export interface RegulationItem {
 }
 
 export const regulations: RegulationItem[] = [
-  { id: 'reg-1', title: '國立臺北藝術大學導師制實施辦法', pdfUrl: '#' },
-  { id: 'reg-2', title: '國立臺北藝術大學學生學習成效預警實施辦法', pdfUrl: '#' },
-  { id: 'reg-3', title: '國立臺北藝術大學學生學習預警與輔導流程圖', pdfUrl: '#' },
+  { id: 'reg-1', title: '國立臺北藝術大學導師制實施辦法', pdfUrl: '/pdf/國立臺北藝術大學導師制實施辦法.pdf' },
+  { id: 'reg-2', title: '國立臺北藝術大學學生學習成效預警實施辦法', pdfUrl: '/pdf/國立臺北藝術大學學生學習成效預警實施辦法.pdf' },
+  { id: 'reg-3', title: '國立臺北藝術大學學生學習預警與輔導流程圖', pdfUrl: '/pdf/國立臺北藝術大學學生學習預警與輔導流程圖.pdf' },
 ]
 
 export const externalResources = {

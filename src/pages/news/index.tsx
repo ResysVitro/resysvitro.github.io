@@ -13,7 +13,7 @@ export default function NewsPage({ news }: NewsPageProps) {
   return (
     <>
       <Head>
-        <title>最新消息 | {siteConfig.name}</title>
+        <title>{`最新消息 | ${siteConfig.name}`}</title>
       </Head>
       <PageHeader
         title="最新消息"

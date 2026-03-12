@@ -5,8 +5,8 @@ year: 2023
 date: 2023-10-01
 author: 本校學生諮商中心
 tags: [邊緣性人格, 輔導技巧, 人際互動, 界線設定, 心理健康]
-thumbnail: /images/seasons/2023/2023秋季篇.jpg
-poster: /images/seasons/2023/2023秋季篇.jpg
+thumbnail: /images/seasons/2023/2023秋季篇.webp
+poster: /images/seasons/2023/2023秋季篇.webp
 ---
 
 # 關渡心四季－2023秋季篇：理解之後，如何和邊緣性人格學生相處？

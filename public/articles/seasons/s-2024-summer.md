@@ -5,8 +5,8 @@ year: 2024
 date: 2024-05-01
 author: 國立臺北藝術大學生活輔導組、學生諮商中心
 tags: [家長溝通, 學生輔導, 責任通報, 校園安全]
-thumbnail: /images/seasons/2024/2024夏季篇.png
-poster: /images/seasons/2024/2024夏季篇.png
+thumbnail: /images/seasons/2024/2024夏季篇.webp
+poster: /images/seasons/2024/2024夏季篇.webp
 ---
 
 # 關渡心四季－2024夏季篇：當學生對於導師或學校向家長聯繫十分反彈時，導師能怎麼做？

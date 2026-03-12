@@ -5,8 +5,8 @@ year: 2024
 date: 2024-03-01
 author: 國立臺北藝術大學學生諮商中心
 tags: [身心健康, 情緒辨識, 學生輔導, 轉介資源]
-thumbnail: /images/seasons/2024/2024春季篇.png
-poster: /images/seasons/2024/2024春季篇.png
+thumbnail: /images/seasons/2024/2024春季篇.webp
+poster: /images/seasons/2024/2024春季篇.webp
 ---
 
 # 關渡心四季－2024春季篇：學生身心問題日益增加，導師該如何辨識與協助？
