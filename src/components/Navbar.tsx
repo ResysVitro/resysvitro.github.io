@@ -127,6 +127,7 @@ export default function Navbar() {
                 height={40}
                 className="h-10 w-auto object-contain"
                 priority
+                fetchPriority="high"
               />
             </div>
             <span className="font-serif font-semibold text-ink-900 group-hover:text-accent-terracotta transition-colors whitespace-nowrap">

@@ -26,7 +26,9 @@
       "Bash(find:*)",
       "Bash(sort:*)",
       "Bash(node scripts/compress-images.js:*)",
-      "Bash(node scripts/update-image-refs.js:*)"
+      "Bash(node scripts/update-image-refs.js:*)",
+      "Bash(grep:*)",
+      "Bash(paste:*)"
     ]
   }
 }
